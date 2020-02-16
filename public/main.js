@@ -14,7 +14,7 @@ let ourHTML = items
   .map(function(item) {
     return itemTemplate(item);
   })
-  .join(""); //join convert array inot a text
+  .join(""); //join convert array into a text
 document.getElementById("item-list").insertAdjacentHTML("beforeend", ourHTML);
 
 //Create feature
