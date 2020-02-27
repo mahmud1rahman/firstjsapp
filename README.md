@@ -1,3 +1,3 @@
 # TO-DO app
 
-- [To-do Javascript App!](https://dashboard.heroku.com/apps/coolapp121) - To see the finished Project on Heroku !
+- [To-do Javascript App!](https://coolapp121.herokuapp.com/) - To see the finished Project on Heroku !
