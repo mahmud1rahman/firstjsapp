@@ -1,3 +1,3 @@
-# this is my first **js app** pushed on the github.
+# TO-DO app
 
-### The basic idea of it to push it on the git hub and test it out .
+- [To-do Javascript App!](https://dashboard.heroku.com/apps/coolapp121) - To see the finished Project on Heroku !
